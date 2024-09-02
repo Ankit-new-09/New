@@ -67,6 +67,7 @@ body {
   padding: 20px;
   margin-bottom: 40px; /* Increased gap between sections */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  min-height:340px;
 }
 
 .section h2 {
