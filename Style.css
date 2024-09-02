@@ -24,6 +24,7 @@ body {
   margin-bottom: 5px;
   flex-direction: column; /* Makes the spans stack vertically */
   align-items: center; /* Center-aligns the stacked text */
+  min-height:300px;
 }
 
 .header h1 {
